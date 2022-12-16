@@ -2,7 +2,7 @@
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  - [Demo] (#Demo)
+  - [Demo](#demo)
   - [IDE](#IDE)
   - [Useful resources](#useful-resources)
   - [Author](#author)
