@@ -28,14 +28,13 @@
 ![ss4](![sss6](https://user-images.githubusercontent.com/61360429/208198980-b9f88867-1c51-4bba-8fd0-32c898eb9070.png)
 
 ###Demo
-![video1](
 
 
 https://user-images.githubusercontent.com/61360429/208209764-3f17145a-2e39-49e5-87e7-3d42ef210634.mp4
 
 
 
-)
+
 
 
 ### IDE used:
